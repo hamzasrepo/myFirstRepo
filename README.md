@@ -11,3 +11,7 @@ into GitHub essentials like repositories, branches, commits, and pull requests.
 These lines are a tribute to the freeCodeCamp.org community 
 for making insightful content to provide beginners and professionals 
 with hands-on knowledge of coding, programming, and much more. 
+
+## Git Branching
+
+Here, I have switched to a feature branch to get an insight into how branching works and how changes in one branch are seen in that branch only.
